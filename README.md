@@ -14,7 +14,7 @@ USAGE:
    
    Column 2 onwards the time series
 
-We follow the format used the UCR time series archive
+   We follow the format used the UCR time series archive
 
 2. Change the location in train.mat and test.mat to the dataset location
 

@@ -10,8 +10,9 @@ USAGE:
 
 1. Convert the data in the following format:
 
-Column 1: Label of the time series sample
-Column 2 onwards the time series
+   Column 1: Label of the time series sample
+   
+   Column 2 onwards the time series
 
 We follow the format used the UCR time series archive
 

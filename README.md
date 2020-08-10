@@ -14,7 +14,7 @@ USAGE:
    
    Column 2 onwards the time series
 
-   We follow the format used the UCR time series archive
+   We follow the format used in the UCR time series archive
 
 2. Change the location in train.mat and test.mat to the dataset location
 
@@ -22,6 +22,6 @@ USAGE:
 
 4. Run driver_dtw.m
 
-Citation:
+CITATION:
 
 Please cite the paper "Learning Discriminative Virtual Sequences for Time Series Classification", Conference on Information and Knowledge Management, 2020
